@@ -1,2 +1,2 @@
 # OmicTransformer
-A model design for handling multi-omics data through the fusion of masking and Transformer.
+A novel deep learning framework that analyses multi-omics data by constructing relation-aware feature embeddings and leveraging a transformer architecture for global feature extraction.
